@@ -1,0 +1,6 @@
+{
+  "name": "Sorpresa Día de Hot Wheels",
+  "description": "Una hermosa sorpresa interactiva de amor temática de Hot Wheels con cartas, trofeo, ramo de carritos y recuerdos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
